@@ -1,2 +1,2 @@
 # Power-BI-
-Microsoft Power BI Documents useful to practise and scale up for all levels. 
+Helps users of all levels to understand and scale up on Microsoft Power BI Platform or improvise existing knowledge on it. 
